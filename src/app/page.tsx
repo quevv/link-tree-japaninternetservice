@@ -84,7 +84,7 @@ export default function Home() {
               {[
                 "/images/services/galaxy.jpg",
                 "/images/services/pocket1.png",
-                "/images/services/pocket4.jpg",
+                "/images/services/pocket4.JPG",
                 "/images/services/pocket3.png",
               ].map((src, index) => (
                 <div key={index} className="w-[8rem] h-[5rem] overflow-hidden rounded-lg mx-auto">
